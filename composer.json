@@ -1,0 +1,15 @@
+{
+  "name": "rice/provider",
+  "authors": [
+    {
+      "name": "minororange",
+      "email": "minororange@foxmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "RiceProvider\\": "src/"
+    }
+  }
+}

@@ -1,1 +1,7 @@
-# rift-rice-feeder
+php 8 supports only
+
+```
+composer dump-autoload
+
+php java
+```
